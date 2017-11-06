@@ -18,4 +18,3 @@ IMAGES
 
 All images were created by Intel Corporation and are licensed under the
 [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/)
-# html5-testcamera
